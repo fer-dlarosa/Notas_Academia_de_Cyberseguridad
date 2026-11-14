@@ -50,7 +50,7 @@ User Datagram Protocol - protocolo que no requiere nu necesesita recuperacion de
 - Estrablecimiento y terminacion de la conexion: Proceso de inicio
 
 ### Formato del encabezado 
-![[Pasted image 20261114112154.png]]
+![alt text](image.png)
 
 
 Cuantos Combinaciones se puede hacer 2^(16), numero de secuencia 2^(32). 
